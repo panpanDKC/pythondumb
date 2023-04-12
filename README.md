@@ -14,6 +14,8 @@ Always start with 'python3', then you can add :
     - a float to specify precision of graph
     - (optionnal) add student_id to see it on the graph
 
+example : 'python3 display line 1.25 230ADB029' // 'python3 scores' // 'python3 display bar 0.7'
+
 De rien Paul
 
 
